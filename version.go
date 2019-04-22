@@ -1,4 +1,4 @@
 package depgen
 
 // Version of depgen
-const Version = "v0.1.0"
+const Version = "v0.1.1"
