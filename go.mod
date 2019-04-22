@@ -1,7 +1,5 @@
 module github.com/gobuffalo/depgen
 
-go 1.12
-
 require (
 	github.com/gobuffalo/envy v1.7.0
 	github.com/gobuffalo/genny v0.1.0
